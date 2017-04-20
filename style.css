@@ -1,14 +1,14 @@
 @font-face {
     font-family: AvenirBody;
-    src: url(/~drip/assets/AvenirNextCondensed.ttf);
+    src: url(assets/AvenirNextCondensed.ttf);
 }
 @font-face {
     font-family: Avenir;
-    src: url(/~drip/assets/regular-ass-avenir.ttf);
+    src: url(assets/regular-ass-avenir.ttf);
 }
 
 body {
-	background: #ffffff url("/~drip/assets/bg.gif") repeat-x top;
+	background: #ffffff url("assets/bg.gif") repeat-x top;
 }
 
 h1 {

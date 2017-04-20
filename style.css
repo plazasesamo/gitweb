@@ -1,0 +1,41 @@
+@font-face {
+    font-family: AvenirBody;
+    src: url(/~drip/assets/AvenirNextCondensed.ttf);
+}
+@font-face {
+    font-family: Avenir;
+    src: url(/~drip/assets/regular-ass-avenir.ttf);
+}
+
+body {
+	background: #ffffff url("/~drip/assets/bg.gif") repeat-x top;
+}
+
+h1 {
+	
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    border: 10px solid #cccccc;
+    background:#ffffff;
+    color: #cccccc;
+    text-align: center;
+    font-family: "AvenirBody","Times New Roman";
+    font-size: 40px;
+}
+a {
+	text-decoration: none;
+	color: #cccccc;
+	}
+
+p {
+	margin:5%;
+	padding: 5%;
+	border: 10px solid #ffffff;
+	background: #cccccc;
+    text-align: center;
+    font-family: "AvenirBody","Times New Roman";
+    font-size: 20px;
+    color: #000000
+}

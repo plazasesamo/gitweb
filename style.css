@@ -39,3 +39,13 @@ p {
     font-size: 20px;
     color: #000000
 }
+iframe {
+	margin:5%;
+	padding: 5%;
+	border: 10px solid #ffffff;
+	background: #cccccc;
+    text-align: left;
+    font-family: "AvenirBody","Times New Roman";
+    font-size: 20px;
+    color: #000000
+}

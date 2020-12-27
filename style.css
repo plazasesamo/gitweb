@@ -20,7 +20,7 @@ h1 {
     border: 10px solid #cccccc;
     background:#ffffff;
     color: #cccccc;
-    text-align: center;
+    text-align: left;
     font-family: "AvenirBody","Times New Roman";
     font-size: 40px;
 }
@@ -34,7 +34,7 @@ p {
 	padding: 5%;
 	border: 10px solid #ffffff;
 	background: #cccccc;
-    text-align: center;
+    text-align: left;
     font-family: "AvenirBody","Times New Roman";
     font-size: 20px;
     color: #000000
